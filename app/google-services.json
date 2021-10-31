@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105748731343",
+    "project_id": "student-info-bf3fb",
+    "storage_bucket": "student-info-bf3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105748731343:android:fd671ad1bea79f18e02eba",
+        "android_client_info": {
+          "package_name": "com.internshala.databaseconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105748731343-tahfec3ptseku9rceeu77scbqbknsuor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYl_lnoTHSMZzeW6BBK-K1LsBw1V0qM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105748731343-tahfec3ptseku9rceeu77scbqbknsuor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

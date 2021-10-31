@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.internshala.databaseconnection">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/studenticon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/studenticon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".testFirebase">
+
+        </activity>
+        <activity
+            android:name=".deleteStudent"
+            android:label="Delete Student Info"></activity>
+        <activity
+            android:name=".editStudent"
+            android:label="Edit Student Info" />
+        <activity
+            android:name=".addStudent"
+            android:label="Add Student Info" />
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ShowData"
+            android:label="Student Information" />
+        <activity
+            android:name=".searchStudent"
+            android:label="Search Student Info" />
+    </application>
+
+</manifest>
