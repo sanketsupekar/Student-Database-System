@@ -9,6 +9,5 @@ Languages Used:- Java, XML, SQL.
 - The layout design is pretty simple and it is used in different gadgets like tablets, smartphone & even smart television. This mini project is not difficult to use, operate and understood by the users.
 
 
-## Search Student Data
-![Search Student Data](https://user-images.githubusercontent.com/72608053/139577970-80811174-e82e-4154-93c0-c66e7ad2ce41.jpg)
-
+## Android App
+![Student Data](https://user-images.githubusercontent.com/72608053/139578340-df1af471-6f20-44ff-97f5-f1c0eafb904e.jpg)
